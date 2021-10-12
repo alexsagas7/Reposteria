@@ -1,0 +1,5 @@
+C:\Users\Laptop\Documents\Lenguaje 3\Reposteria\Reposteria\BL.Reposteria\bin\Debug\BL.Reposteria.dll
+C:\Users\Laptop\Documents\Lenguaje 3\Reposteria\Reposteria\BL.Reposteria\bin\Debug\BL.Reposteria.pdb
+C:\Users\Laptop\Documents\Lenguaje 3\Reposteria\Reposteria\BL.Reposteria\obj\Debug\BL.Reposteria.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Documents\Lenguaje 3\Reposteria\Reposteria\BL.Reposteria\obj\Debug\BL.Reposteria.dll
+C:\Users\Laptop\Documents\Lenguaje 3\Reposteria\Reposteria\BL.Reposteria\obj\Debug\BL.Reposteria.pdb
